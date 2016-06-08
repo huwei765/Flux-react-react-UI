@@ -9,6 +9,7 @@
     "flux": "^2.0.1",
     "keymirror": "~0.1.0",
     "object-assign": "^1.0.0",
+    "rctui": "^0.6.1",
     "react": "^0.12.0"
   },
   "devDependencies": {
